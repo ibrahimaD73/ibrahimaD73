@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ibra-d/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/ibrahimaD73)
 
-Bienvenue sur mon profil GitHub! Je suis un ingénieur en Machine Learning et Data Engineering passionné, avec plus de 2 ans d'expérience dans le développement de solutions innovantes en Intelligence Artificielle et Machine Learning.
+Bienvenue sur mon profil GitHub! Je suis un ingénieur en Math Appliquée , passionné par le développement d'applications et de solutions en Intelligence Artificielle et Machine Learning.
 
 ## 🚀 Ce sur quoi je travaille
 
