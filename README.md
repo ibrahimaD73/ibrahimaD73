@@ -37,7 +37,6 @@ Projet d'analyse et de visualisation des données de consommation électrique en
 
 ## 📫 Comment me contacter
 
-- LinkedIn: [Ibrahima DIALLO](https://www.linkedin.com/in/ibra-d/)
 - Email: [ibrahima.diallo73@outlook.fr](mailto:ibrahima.diallo73@outlook.fr)
 
 N'hésitez pas à explorer mes repositories et à me contacter pour toute collaboration ou opportunité intéressante!
